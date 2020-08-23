@@ -1,4 +1,4 @@
-﻿# [NodeJs & PostgreSQL Crud Application](https://github.com/dannibla/nodejs-postgresql-crud)
+
 
 Learn how to create a Simple Crud Application by Connecting PostgreSQL with NodeJs, While you are using PostgreSQL as database and NodeJs as backend, you need PostgreSQL database packages to connect with nodejs. There are various packages available but most popular and well documented is node-postgres [pg](https://node-postgres.com/). Let’s start.
 
@@ -72,7 +72,3 @@ CREATE TABLE customer
 
 ## Help on Executing Queries
 
-Documented is available node-postgres(Doc) [pg](https://node-postgres.com/features/queries)
-
-## Copyright and License
-Copyright 2019 NodeJs & PostgreSQL Crud Application, released under the MIT License.
